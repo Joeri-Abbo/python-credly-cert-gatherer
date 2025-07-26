@@ -50,7 +50,7 @@ pyproject-hooks==1.1.0
     #   pip-tools
 python-dateutil==2.9.0.post0
     # via botocore
-requests==2.32.3
+requests==2.32.4
     # via credly-scraper (pyproject.toml)
 ruff==0.6.5
     # via credly-scraper (pyproject.toml)
